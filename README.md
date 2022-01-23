@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @GameBracket
-- 👀 I’m interested in making games with unity 3d
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on making awesome 3d games
-- 📫 How to reach me on discord: Liwa#9203
+- 👀 I’m interested in making making software
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on making awesome softwares
 
 <!---
 GameBracket/GameBracket is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
