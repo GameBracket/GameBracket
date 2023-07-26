@@ -1,3 +1,3 @@
 # Muffin-Lorde
 
-**`Website Developer/Discord Bot Developer/All Purpose Developer`**
+**`Website Developer/Discord Bot Developer`**
